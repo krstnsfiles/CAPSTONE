@@ -1,0 +1,322 @@
+a {
+	font-family: Georgia, serif;
+	color: #E37383;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+
+
+
+
+#navbar {
+	 font-family: Georgia, serif;
+	 background-color: #C9A9A6; 
+	 height: 65px;
+	 text-align: right;
+
+}
+
+#navbar-toggler {
+	background-color: #C9A9A6 ;
+}
+
+#navbarSupportedContent {
+	justify-content: center;
+	align-items: center;
+}
+
+.navbar-collapse {
+	background-color: #C9A9A6; 
+	width: 100%;
+}
+
+
+
+#toggle {
+	background-color: #C9A9A6;
+}
+
+
+
+* {
+	font-family: Georgia, serif;
+}
+
+
+h1 {
+	font-family: Georgia, serif;
+	font-weight: bold;
+	color: #673147;
+	align-items: center;
+	justify-content:  ;
+	padding-top: 390px;
+	width:65%;
+  	margin-left:none;
+  	text-align: center;
+  	float: center;
+	
+}
+
+
+
+
+h2 {
+	font-family: Georgia, cursive;
+	font-weight: bolder;
+	color: #673147;
+	margin-top: 30px;
+}
+
+p {
+	font-size: 20px;
+	color: #770737;
+}
+
+
+.me {
+	height: 250px;
+	width: 250px;
+	border-radius: 50%;
+	border-color: white;
+	margin-top: 130px;
+}
+
+
+
+
+#home {
+	background-image: url('https://i.pinimg.com/736x/78/b0/2f/78b02fed1335c9ffaf3272060dfc5004.jpg');
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+	height: 100vh;
+	width: 100%;
+}
+
+#kirsten{
+	background-image: url('https://i.pinimg.com/564x/2b/ae/97/2bae97a9423b958577274993864aa400.jpg');
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+	height: 100vh;
+	width: 100%;
+}
+
+#projects{
+	background-image: url('https://i.pinimg.com/564x/a1/11/00/a1110071093e75b77ccea51a8c4273c3.jpg');
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+	height: 100vh;
+	width: 100%;
+}
+
+
+#contact{
+	background-image: url('https://i.pinimg.com/564x/b8/01/f1/b801f151c4b70ee599bded642ebe0dd9.jpg');
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+	height: 100vh;
+	width: 100%;
+}
+
+
+
+
+
+#gallery
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	border-radius: 6px;
+	padding: 2vh 0;
+	
+}
+
+ul
+{
+	list-style: none;
+	padding: 0;
+}
+
+.tools {
+	color: white;
+	border: 5px olid #f2f2f2;
+	width: 75%;
+	margin: 1px;
+	padding: 1px;
+	justify-content: right;
+	align-items: right;
+
+}
+
+h3 {
+	font-family: 'poppins', serif;
+	text-align: center;
+	font-weight: bold;
+	color: #673147;
+	align-items: center;
+	justify-content:  ;
+	padding-top: 390px;
+	width:65%;
+  	margin-left:none;
+  	text-align: center;
+  	float: center;
+
+}
+
+
+
+
+li {
+	text-align: center;
+	color: #8c6f15;
+	font-weight: bold;
+}
+
+.container3
+{
+	display: flex;
+	text-align: center;
+	
+}
+
+
+h4 {
+
+	font-family: 'Georgia', serif;
+	font-weight: bolder;
+	color: #673147;
+	text-align: center;
+	margin-top: 20px;	
+	display: inline-flex;
+}
+
+
+
+.card-img-top {
+	width: 20%;
+	height: 60px;
+	justify-content: center;
+	align-items: center;
+	border: 30px;
+
+}
+
+.e-com {
+	height: 250px;
+	width: 400px;
+	margin-right: 150px;
+	margin-left: 75px;
+	margin-top: 350px ;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.adalove {
+	height: 250px;
+	width: 400px;
+	margin-left: 150px;
+	margin-right: 75px;
+	margin-top: 350px ;
+	justify-content: center;
+	align-items: center;
+}
+
+.session{
+	height: 250px;
+	width: 400px;
+	margin-left: 150px;
+	margin-right: 75px;
+	margin-top: 350px ;
+	justify-content: center;
+	align-items: center;
+}
+
+
+h6 {
+
+	font-family: Georgia, cursive;
+	color: #673147;
+	padding-top: 90px;
+	padding-bottom: 50px;
+	font-size: 25px;
+	font-weight: bolder;
+	font-size: 40px;
+
+}
+
+#info {
+	background-color: #94acc2;
+	border-radius: 20px;
+}
+
+
+.sci
+{
+	position: absolute;
+	top: 50%;
+	right: 30px;
+	transform: translateY(-50%);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.sci li 
+{
+	list-style: none;
+}
+
+
+.sci li a 
+{
+	display: inline-block;
+	margin: 5px 0;
+	transform: scale(0.6);
+	filter: grayscale(50%)
+
+}
+
+
+.bi
+
+{
+
+	text-align: center;
+	font-family: 'Sanchez', serif;
+	color: #000;
+}
+
+label {
+	font-family: Poppins, serif;
+	font-size: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+input {
+	height: 40px;
+	border: none;
+	size: 70;
+	margin-bottom: 30px rounded;
+	padding-inline: 500px;
+}
+
+
+form {
+	display: block;
+
+}
+
+#button {
+	background-color: #000 ;
+	font-size: 30px;
+	border-radius: 15px;
+}
